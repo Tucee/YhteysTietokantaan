@@ -1,0 +1,7 @@
+C:\Users\Mika\Desktop\YhteysTietokantaan\YhteysTietokantaan\bin\Debug\YhteysTietokantaan.exe.config
+C:\Users\Mika\Desktop\YhteysTietokantaan\YhteysTietokantaan\bin\Debug\YhteysTietokantaan.exe
+C:\Users\Mika\Desktop\YhteysTietokantaan\YhteysTietokantaan\bin\Debug\YhteysTietokantaan.pdb
+C:\Users\Mika\Desktop\YhteysTietokantaan\YhteysTietokantaan\obj\Debug\YhteysTietokantaan.csprojResolveAssemblyReference.cache
+C:\Users\Mika\Desktop\YhteysTietokantaan\YhteysTietokantaan\obj\Debug\YhteysTietokantaan.exe
+C:\Users\Mika\Desktop\YhteysTietokantaan\YhteysTietokantaan\obj\Debug\YhteysTietokantaan.pdb
+C:\Users\Mika\Desktop\YhteysTietokantaan\YhteysTietokantaan\bin\Debug\App.config
